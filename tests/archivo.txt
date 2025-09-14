@@ -1,0 +1,1 @@
+Línea agregada en feature/cambio-texto.
