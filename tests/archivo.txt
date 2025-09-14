@@ -1,1 +1,2 @@
 Línea agregada en feature/cambio-texto.
+Línea agregada en main.
